@@ -1,1 +1,1 @@
-# Cyrez-assests
+# Cyrez-assets
